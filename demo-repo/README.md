@@ -1,4 +1,4 @@
-# demo 2
+# demo 1
 
 some text
 
@@ -26,3 +26,4 @@ testing1
 
 ## testing git on 19 july 2024
 
+# solo edit on demo repo 1
